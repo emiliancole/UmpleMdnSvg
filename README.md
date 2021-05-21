@@ -13,7 +13,7 @@ open() : to render an open svg tag (<circle cx="50" cy="50" r="50" style="fill:r
 close() : to render a closed svg tag (</circle>)
 
 The open() and close() methods are usefull when an svg tag must be included inside another svg tag. 
-For example in the <animate> tag.
+For example in the "animate" tag.
 
 Many examples of use are included.
   
